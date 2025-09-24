@@ -30,13 +30,4 @@ I architect and engineer high-performance data pipelines and backend APIs that s
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 *Open to discussing complex problems where accuracy, speed, and scale matter. Let's build something impactful!*
